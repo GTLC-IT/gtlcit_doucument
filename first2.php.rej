@@ -1,0 +1,6 @@
+diff a/first2.php b/first2.php	(rejected hunks)
+@@ -0,0 +1,4 @@
++//This is comment
++<?php
++    echo "尝试重复增加"
++        ?>
